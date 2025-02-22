@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ### 👨‍💻 About Me:
-- 🌟 **Current Status**: B.Tech CSE student at **Babu Banarasi Das Institute of Technology and Management**
+- 🌟 **Current Status**: B.Tech IT student at **Babu Banarasi Das Institute of Technology and Management**
 - 🌱 **Learning Goals**: Mastering **Java, React, Express.js, and Full Stack Development**
 - 💻 **Tech Stack**:
   - **Frontend**: HTML, CSS, JavaScript, React.js
