@@ -5,7 +5,7 @@
   <a href="https://github.com/kirtiSrivastava1811/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Kirti!;I%20am%20a%20Full%20Stack%20Developer;I%20Love%20Coding%20❤;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&center=true&width=440&height=45&color=61CC8C&vcenter=true&size=22"></a>
 </p>
 
-<h3 align="center">A passionate  information Technology Student and Software Developer</h3>
+<h3 align="center">A passionate Information Techology Student and Aspiring Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtiSrivastava1811&label=Profile%20views&color=0e75b6&style=flat" alt="kirtiSrivastava1811" /> </p>
 
@@ -66,38 +66,8 @@
   <b>Visitors Count</b><br>
   <img src="https://profile-counter.glitch.me/kirtiSrivastava1811/count.svg" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<br>
-
-<p  align="center">
-
-<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
-  </p>
-  
-<p  align="center">
-
-### Learning Sources
-
-<hr/>
-
-<img align="left" alt="Google" width="100px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/google-2015-google-new-google-icon.svg" />
-<img align="left" alt="W3school" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/w3school.png" />
-<img align="left" alt="gfg" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/geeksforgeeks-17.png" />
-<img align="left" alt="Udemy" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/udemy.webp" />
-<img align="left" alt="Codepen" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/social-32-512.webp" />
-<img align="left" alt="YouTube" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/youtube.webp" />
-<img align="left" alt="coursera" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/coursera_logo_icon.png" />
-
-<br><br><br><br>
-
-<img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" height="25"/>  
-  &nbsp;
-<img src="https://camo.githubusercontent.com/ec263c8eb4b0c40ad76855b9bc9d1168a715a30d72bb3e4634650c12e2688989/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3035313232413f7374796c653d666c6174266c6f676f3d65636c697073652d696465266c6f676f436f6c6f723d324332323535" height="25"/>
-  </p>
-  
- 
 
 ### 🤝 Connect with me:
 <p align="left">
 <a href="mailto:kirtisrivastava7398@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p
+</p>
